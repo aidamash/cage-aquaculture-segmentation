@@ -1,2 +1,2 @@
-# cage-aquaculture-segmentation
-Mapping cage aquacultures in Lake Victoria Kenya
+# cage_aquaculture_mapping
+Cage aquaculture mapping in lake vicotria Kenya
