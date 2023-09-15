@@ -1,0 +1,15 @@
+ipython
+numpy
+scipy
+scikit-learn
+scikit-image
+torch==2.0.1
+torch-vision
+pytorch-lightning
+segmentation-models-pytorch
+matplotlib
+albumentations
+tqdm
+rasterio
+geopandas
+gpustat
