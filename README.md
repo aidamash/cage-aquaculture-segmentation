@@ -1,2 +1,2 @@
-# cage_aquaculture_mapping
-Cage aquaculture mapping in lake vicotria Kenya
+# cage-aquaculture-mapping
+Cage aquaculture mapping in lake victoria Kenya
